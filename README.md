@@ -3,4 +3,4 @@
 
 ### I am interested in data science.
 ### I am currently learning data engineering and Python.
-###I hope to utilize these new skills in my next employment opportunity.
+### I hope to utilize these new skills in my next employment opportunity.
